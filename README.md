@@ -5,15 +5,12 @@
 To develop a neural network classification model for the given dataset.
 
 ## Problem Statement
+Creating a model – piece together the layers of a Neural Network using the Functional or Sequential API.
 
-An automobile company has plans to enter new markets with their existing products. After intensive market research, they’ve decided that the behavior of the new market is similar to their existing market.
-
-In their existing market, the sales team has classified all customers into 4 segments (A, B, C, D ). Then, they performed segmented outreach and communication for a different segment of customers. This strategy has work exceptionally well for them. They plan to use the same strategy for the new markets.
-
-You are required to help the manager to predict the right group of the new customers.
+Compiling a model – defining how a model's performance should be measured, and how it should improve (loss function and optimizer)
 
 ## Neural Network Model
-![image](https://github.com/Adhithyaram29D/nn-classification/assets/119393540/6e975026-494b-4bd9-91f5-000848d11127)
+![download](https://github.com/chaitanya18c/nn-classification/assets/119392724/bf90c80c-e43e-46d0-99f0-fb41df0739f8)
 
 
 ## DESIGN STEPS

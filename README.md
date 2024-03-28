@@ -194,11 +194,9 @@ print(le.inverse_transform(x_single_prediction))
 ## Dataset Information
 ![310541491-e33ecbfe-7925-40a6-9662-09b957734f1d](https://github.com/chaitanya18c/nn-classification/assets/119392724/ce2c314e-84b5-4be2-9822-a776783588ab)
 
-
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-![download](https://github.com/chaitanya18c/nn-classification/assets/119392724/d992c020-0bc5-4246-85ca-2b3c0facf168)
-
+![310541639-c899fa21-127c-4833-b7fb-3945fa6e2105](https://github.com/chaitanya18c/nn-classification/assets/119392724/e610c0b6-c482-4876-8083-854bba918051)
 
 ### Classification Report
 ![310541696-1e32082e-499d-4981-a652-1131e42d430a](https://github.com/chaitanya18c/nn-classification/assets/119392724/1b95a703-d552-4c5a-96eb-07d74932de71)
